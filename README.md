@@ -1,7 +1,7 @@
 # MiAI_YOLOv6_Deploy
 Demo of deploy YOLOv6 model as API
 
-Video link:  https://youtu.be/1ZidAtKpAz0
+Video link:  https://youtu.be/0y9eia9C1y8
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
